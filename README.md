@@ -57,7 +57,7 @@ Si vous souhaitez modifier ou améliorer le bot :
 -    Apportez vos **modifications**
 - **Testez** avec :
 ```bash
-python bot.py
+python main.py
 ```
 -   Proposez une **pull request** 🎉
 
