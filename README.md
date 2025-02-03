@@ -6,6 +6,8 @@ Ce bot Discord permet d'afficher les temps d'attente des attractions dans diffé
 Il a été développé dans le cadre d'un projet pour [mon compte TikTok 🎢: clip2ep.fan](https://www.tiktok.com/@clip2ep.fan).  
 Étant donné, que j'aime beaucoup les parcs d'attractions, j'ai voulu créer un outil simple et pratique pour obtenir rapidement les informations sur les files d'attente depuis Discord.  
 
+- [Lien du site](https://queue-times.gitbook.io/queue-times/)
+
 
 ## 📜 Fonctionnalités
 - `/time <parc>` : Récupère les temps d'attente des attractions d'un parc.
